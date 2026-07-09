@@ -94,6 +94,22 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaled1267&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled1267" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled1267&layout=compact" alt="Top Languages" />
+</p>
+
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khaled1267&color=378ADD&style=flat-square&label=Profile+Views)
