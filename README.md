@@ -94,15 +94,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaled1267&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=khaled1267&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled1267&layout=compact&theme=tokyonight)
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khaled1267&color=378ADD&style=flat-square&label=Profile+Views)
 
