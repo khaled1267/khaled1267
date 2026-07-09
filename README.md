@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://i.ibb.co.com/9k1ND86X/Abstract-Technology-Profile-Linked-In-Banner.png" alt="banner"/>
+<img width="100%" src="https://i.ibb.co.com/GQgjCX7P/khaled-khan-github-banner.png" alt="banner"/>
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=70&lines=Hi+I'm+Khaled+Mahmud+👋;Frontend+Developer+🚀;React+%26+Next.js+Enthusiast+💻;Building+cool+web+projects+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=70&lines=Hi+I'm+Khaled+Mahmud+👋;Full+stack+Developer+🚀;React+%26+Next.js+Enthusiast+💻;Building+cool+web+projects+🌍)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,12 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
----
+### 👋 Hi, I'm [@khaledkhan](https://github.com/khaled1267/khaled1267)
 
-Hey! I'm Khaled Mahmud, a passionate frontend developer from Dhaka, Bangladesh 🇧🇩
-
-I love building modern, responsive web applications that look great and work smoothly. Currently diving deep into React and Next.js to level up my skills every day.
+- 🖥️ I'm currently working on **React, Next.js, and TypeScript** for Full stack development.
+- 🗄️ Using **Node.js, Express.js, and MongoDB** for the backend.
+- 💬 Ask me about Full-Stack development (React, Next.js, Node.js, Express, MongoDB).
+- 🌐 Explore my portfolio: [khakedmahmud.vercel.app](https://khakedmahmud.vercel.app/)
+- 📫 Reach me at: [khaledkhan1267@gmail.com](mailto:khaledkhan1267@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
