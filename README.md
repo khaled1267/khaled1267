@@ -34,10 +34,17 @@
 **Backend & Database:**
 
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+
+
 **Design**
 ![](https://skillicons.dev/icons?i=figma)
+
+
 **Deployment Platform:**
+
+
 ![](https://skillicons.dev/icons?i=vercel)
+
 
 **Tools & Technologies:**
 
