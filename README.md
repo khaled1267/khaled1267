@@ -52,6 +52,17 @@
 ![](https://skillicons.dev/icons?i=git,github,vscode,windows)
 ---
 
+
+## 🚀 Current Activities
+
+* 🔭 Currently working on full-stack web development projects.
+* 🌱 Learning Next.js and TypeScript to build modern web applications.
+* 💻 Building responsive and user-friendly websites using React and Tailwind CSS.
+* 📚 Practicing Data Structures & Algorithms through coding challenges.
+* 🚀 Exploring backend development with Node.js, Express.js, and MongoDB.
+* ⚡ Continuously improving my problem-solving and software development skills.
+
+
 ## 📊 GitHub Statistics & Analysis
 
 <p align="center">
